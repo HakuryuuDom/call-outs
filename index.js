@@ -4,7 +4,7 @@ module.exports = function CallOuts(mod) {
     mod.hook('S_CHAT', 2, event => {
         let message = event.message.replace(/<(.+?)>|&rt;|&lt;|&gt;|/g, '').replace(/\s+$/, '');
         if(event.channel === 1 && numbers.includes(message)) {
-            say.speak(message);
+            say.speak(message === '4' ? message + '. Pushback incoming.' : message);
         }
 
     })
