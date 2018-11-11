@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "INSERT MODULE NAME HERE",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "setting_migration.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/HakuryuuDom/INSERT_MODULE_NAME_HERE/master/"]
+}

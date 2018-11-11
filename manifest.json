@@ -1,0 +1,24 @@
+{
+	"files": {
+		"index.js": "b9aa49e2697910b15e52e0fcd0e8f036f13b43f339bfeb20e9148f6714a4dda8",
+		"module.json": "4edf90386ef9bf8c244ffd9dcf2a3bcc1482a10a2f68d1e595913fd853eca344",
+		"node_modules/one-time/LICENSE": "3b2a6a268aa815dec121d614245e03b5c68db1f044d5b525e36db7d5dc7fb9c3",
+		"node_modules/one-time/README.md": "d6ba67e7be6f7a9f07162c268820077fb75068138e22731fef2d4e77e5d11a06",
+		"node_modules/one-time/index.js": "2bced6caff67daa2cb2cd7117a65680f28da88b00bb488e39158181b4b119d76",
+		"node_modules/one-time/package.json": "c447c4f38115dcaee853ddd733ecd8e395ecac74dc61a1e3a667e699fe8cdae8",
+		"node_modules/one-time/test.js": "75cbe218fca06022e5dcb6453ea2f4aec0881d34f1d6797e79b263dffb05ad60",
+		"node_modules/say/LICENSE.txt": "f56de09dd4ba915fdb708ce1d67fbb3d1ce0dfb9cd755f9ee8b1a9e83405dc3c",
+		"node_modules/say/README.md": "79bdfbee804bf1703b048b91bc6bf44482ec088619cf65967b1587db69f63068",
+		"node_modules/say/index.d.ts": "edb4711af1cfab8c512925c0131c1da6f5e5fd8048ebc93f15736519af6f255f",
+		"node_modules/say/index.js": "25b3fcf89f98afc041670cbe60f5390c172779fed0f0e556f21a49f246ae1be7",
+		"node_modules/say/package.json": "82ea307964062d36eaa3e3b6e7710c15a6411c3e79533b0299f4dd97789f74ff",
+		"node_modules/say/platform/base.js": "d22a405e9eea6e744e3c1bdbb61d827797b8f8fad71b79981636ebf24eb409cb",
+		"node_modules/say/platform/darwin.js": "ea8d41029363500e396fa14bec8df355bc51dbb6f57ef6b309691ebec03562c3",
+		"node_modules/say/platform/linux.js": "5b9a94f0da24f2449b0c93c8018e1395e219c3f2cddc7f3c4708e32d4c5f49c0",
+		"node_modules/say/platform/win32.js": "da2fc2184a7961317dad2ca39af886edc4a93defb8a3595c011138c425f85d40",
+		"node_modules/say/typings.json": "0a5c2a0a0422f19ef342e5ef51b6b4e75f291e79fc04c78963a005f85be3db29"
+	},
+	"defs": {
+		"S_CHAT": 2
+	}
+}
